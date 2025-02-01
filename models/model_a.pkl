@@ -1,0 +1,3 @@
+# Este arquivo é gerado a partir do modelo treinado e deve ser preenchido com o modelo A.
+# O conteúdo do arquivo model_a.pkl deve ser gerado pelo processo de treinamento do modelo.
+# Este arquivo é intencionalmente deixado em branco.
